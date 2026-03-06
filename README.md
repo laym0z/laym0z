@@ -1,7 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=laym0z&style=flat-square&color=orange" alt=""/>
-
 ## About me
-- 📝I am a tech guy who is interested in almost everything related to cybersecurity in the information space and programming.
+- 📝I am a tech guy from Ukraine who is interested in almost everything related to cybersecurity in the information space and programming.
 - 💻I love researching operating system security issues and keeping track of the current state of affairs in the world of information security.
 - ⚙️I also love creating programs to automate certain tasks, simplify work, and programs that serve as a springboard for my learning.
 
